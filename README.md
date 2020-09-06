@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/hu980j6nadreab0u?svg=true)](https://ci.appveyor.com/project/VarsPtz/ahj-homework-dom-goblin)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
