@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hu980j6nadreab0u?svg=true)](https://ci.appveyor.com/project/VarsPtz/ahj-homework-dom-goblin)
+[![Build status](https://ci.appveyor.com/api/projects/status/mwnpiarnxahhc3iw?svg=true)](https://ci.appveyor.com/project/VarsPtz/ahj-homework-dom-goblin)
 
 [GitHub Pages](https://varsptz.github.io/ahj-homework-dom-goblin/)
 
