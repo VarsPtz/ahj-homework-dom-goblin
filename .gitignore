@@ -4,6 +4,5 @@ doc
 coverage
 logs
 .idea
-<<<<<<< HEAD
 .npmrc
 yarn-error.log
